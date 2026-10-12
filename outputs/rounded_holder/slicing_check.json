@@ -1,0 +1,12 @@
+{
+  "slicer": "Bambu Studio 02.08.03.66",
+  "return_code": 0,
+  "printer": "X1 Carbon, 0.4 mm nozzle",
+  "validation_material": "Bambu PLA Basic",
+  "layer_height_mm": 0.2,
+  "supports_enabled": false,
+  "support_toolpath_sections": 0,
+  "bridge_toolpath_sections": 23,
+  "plate_warnings": [],
+  "physical_print_tested": false
+}

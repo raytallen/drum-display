@@ -1,0 +1,8 @@
+cadquery
+numpy
+trimesh
+manifold3d
+matplotlib
+shapely
+mapbox-earcut
+pillow
